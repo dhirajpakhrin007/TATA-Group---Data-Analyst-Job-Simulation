@@ -32,7 +32,3 @@ Data Visualization, Data Interpretation, Dashboard Building, Data Cleaning, Data
 
 
 This simulation was useful to understand what it might be like to participate in a consulting team at TATA.
-
-
-
-Copied from: (3) Feed | LinkedIn - <https://www.linkedin.com/feed/?nis=true>
